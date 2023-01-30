@@ -2,5 +2,20 @@
   "name": "typescript",
   "version": "0.0.0",
   "private": true,
-  "dependencies": {}
+  "description": "[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/typescript-z7ghgm)",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsc index.ts index2.ts -w",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IsuruKDev/typescript-inaction.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IsuruKDev/typescript-inaction/issues"
+  },
+  "homepage": "https://github.com/IsuruKDev/typescript-inaction#readme"
 }
